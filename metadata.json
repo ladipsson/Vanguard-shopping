@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Men's Wear",
+  "description": "Premium men's clothing store featuring integrated payment processing, verified user reviews, inventory management, real-time shipment tracking, social authentication, and business analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
